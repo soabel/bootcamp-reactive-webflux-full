@@ -12,6 +12,11 @@
 https://medium.com/devops-dudes/securing-spring-boot-rest-apis-with-keycloak-1d760b2004e
 
 # SPRING CLOUD STREAM
+
+## Instalar docker-compose
+
+https://docs.docker.com/compose/install/
+
 ## Crear kafka hub  with Docker-Compose
 `docker-compose up -d`
 
